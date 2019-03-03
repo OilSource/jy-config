@@ -2,3 +2,5 @@ jy:
   hello: "hello im dev"
 person:
   name: dev-im-plus
+my:
+  password: '{cipher}68af9b86a0f99f3fbcea6db887c5c291649bbcf6498aae561a9d4d3e8d0831b1'
